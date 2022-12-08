@@ -22,3 +22,19 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+/* Add my css in homework */
+
+/* Task 3 */
+.task3 {
+  display: flex;
+  justify-content: center;
+}
+
+.task3:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.task3 .images {
+  width: 40%;
+}
